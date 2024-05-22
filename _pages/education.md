@@ -70,6 +70,6 @@ Deep Learning, Convolutional Neural Networks,  Multi Task Learning, Active Learn
 <details><summary>Nature Inspired Computing</summary></details>
 
 
-![North Carolina State University](ncsu_picture.jpeg)
+![North Carolina State University](/images/ncsu_picture.jpeg)
 *North Carolina State University*
 
