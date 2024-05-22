@@ -8,8 +8,8 @@ redirect_from:
 showTableOfContents: true
 ---
 ## Table of Contents
-- [Graduate Research Assistant - North Carolina State University](# North Carolina State University)
-- [Machine Learning Engineer - Skylark Labs](#Skylark Labs)
+- [Graduate Research Assistant - North Carolina State University](#North-Carolina-State-University)
+- [Machine Learning Engineer - Skylark Labs](# Skylark Labs)
 - [Teaching Assistant - North Carolina State University](# North Carolina State University CSC)
 - [Student Intern - National Institute of Ocean Technology](# National Institute of Ocean Technology)
 - [Associate Software Engineer - Accenture](#accenture)
