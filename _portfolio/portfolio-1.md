@@ -1,6 +1,6 @@
 ---
 title: "Motif Finding with Particle Swarm Optimization and DNA Sequence Preprocessing "
-excerpt: "Motif Detection in DNA Sequences using Nature Inspired Algorithms<br/><img src='https://github.com/Karthik2924/CSC530_project/blob/da16ee37c5636611a53dc11601086a3130e5aafe/pso.png'>"
+excerpt: "Motif Detection in DNA Sequences using Nature Inspired Algorithms<br/><img src="/images/pso.png">"
 collection: portfolio
 ---
 
