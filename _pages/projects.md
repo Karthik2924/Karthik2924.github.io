@@ -1,8 +1,20 @@
 ---
-title: "Motif Finding with Particle Swarm Optimization and DNA Sequence Preprocessing "
-excerpt: "Motif Detection in DNA Sequences using Nature Inspired Algorithms<br/><img src="/images/pso.png">"
-# collection: portfolio
+layout: archive
+permalink: /experience/
+title: "Projects"
+author_profile: true
+redirect_from:
+  - /experience
+showTableOfContents: true
 ---
+## Table of Contents
+- [Motif Finding](#motif)
+- [Self Supervised Learning](#ssl)
+- [Fake news detection](#hackathon)
+
+
+<a id="motif"></a>
+## Discovering DNA Motifs Using Particle Swarm Optimization with Sequence Preprocessing
 
 * Motif Finding Problem :
   * The process of discovering patterns in a collection of sequences, such as DNA sequences.
@@ -12,3 +24,12 @@ excerpt: "Motif Detection in DNA Sequences using Nature Inspired Algorithms<br/>
 * This work adopts Particle Swarm Optimization, a nature inspired metaheuristic optimization to solve Motif Finding problem.
 
 The project github repository can be found [here](https://github.com/Karthik2924/CSC530_project)
+
+![Poster of Our project](/images/pso.png)
+
+<a id="ssl"></a>
+- ## Self Supervised Learning
+
+<a id="hackathon"></a>
+- ## Fake News Detection
+
