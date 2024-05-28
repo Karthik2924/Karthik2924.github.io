@@ -21,7 +21,7 @@ repository               : "Karthik2924.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "PXL_20221227_003131326.PORTRAIT.jpg"
+  avatar           : "profile.png" #"PXL_20221227_003131326.PORTRAIT.jpg"
   name             : "Karthik Sanka"
   pronouns         : # example: "she/her"  
   bio              : "Research assistant at North Carolina State University. Profecient in Deep Learning"
