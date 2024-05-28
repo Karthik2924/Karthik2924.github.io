@@ -1,10 +1,10 @@
 ---
 layout: archive
-permalink: /experience/
+permalink: /projects/
 title: "Projects"
 author_profile: true
 redirect_from:
-  - /experience
+  - /projects
 showTableOfContents: true
 ---
 ## Table of Contents
