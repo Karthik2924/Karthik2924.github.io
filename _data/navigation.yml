@@ -8,7 +8,7 @@ main:
     url: /education/
 
   - title: "Projects"
-    url: /portfolio/
+    url: /projects/
   
   - title: "Publications"
     url: /publications/
