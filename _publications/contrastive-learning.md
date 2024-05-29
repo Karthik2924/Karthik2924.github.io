@@ -1,9 +1,9 @@
 ---
 title: "CONTRASTIVE CURRICULUM AUGMENTATION FRAMEWORK FOR SELF-SUPERVISED LEARNING"
 collection: publications
-permalink: /publication/contrastive_learning
+permalink: /publication/contrastiveLearning
 excerpt: 'This paper is about leveraging unlabelled data to pretrain the model using contrastive learning methods with a curriculum which sequentially increases the difficulty of the training examples.'
-date: 2015-10-01
+date: 2022-09-17
 venue: 'International Journal of Soft Computing and Artificial intelligence Volume-10, Issue-1'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://www.researchgate.net/publication/363767138_CONTRASTIVE_CURRICULUM_AUGMENTATION_FRAMEWORK_FOR_SELF-SUPERVISED_LEARNING#fullTextFileContent'
