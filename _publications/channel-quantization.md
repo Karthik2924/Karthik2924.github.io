@@ -3,7 +3,7 @@ title: "Latent Disentanglement via Channel Quantization for Discrete Interpretab
 collection: publications
 permalink: /publication/channel-quantization
 excerpt: 'This paper tackles the problem of lack of interpretablility in codewords of a VQVAE model and achieves higher compression ratios with a very minimal use of labeled data.'
-date: 2021-07-06
+date: 2024-04-04
 venue: 'Under Review'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 #paperurl: 'https://drive.google.com/file/d/1rslFjlpGMGNKffGqR5umrDYLpHcboG8U/view' #'http://academicpages.github.io/files/paper1.pdf'
