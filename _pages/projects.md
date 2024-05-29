@@ -45,11 +45,10 @@ summarize the information and extract the claims made in the article.
 - We scrape multiple web sources for the claims made in the article and summarize them using the Large Language Model and provide the user
 with the information as well as the source.
 
-
 <a id="hackathon2"></a>
 ## BLISS - Mental Health App
 
 - Detects signs of mental health problems such as depression by noting responses from the user.
 - My Contribution : Trained the machine learning model on publicly available dataset.
-- Deployed an API that instantiates the model on Heroku which is integrated with the application.
+- Deployed an API that instantiates the model on Heroku for simple integration with the application.
 
