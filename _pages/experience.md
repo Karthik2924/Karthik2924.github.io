@@ -65,7 +65,7 @@ various methods to disentangle different attributes of the data in latent space
 ## Samsung
 **Research Intern @ [Samsung PRISM](https://www.samsungprism.com/) India**
 
-*September 2001 - March 2020*
+*September 2020 - March 2021*
 
 - Developed a hybrid sound classification engine using log-Mel audio features to detect artificial sounds as well as identify spoofed voice.
 - Trained a neural network using Residual Squeeze and excitation network.
